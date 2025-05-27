@@ -1,0 +1,19 @@
+.div {
+    background-color: rgb(247, 146, 159);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.num3 {
+    font-size: 24px;
+}
+
+#num2 {
+    font-size: 36px;
+    color: rgb(0, 34, 255);
+}
+
+#num4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(139, 254, 139);
+}
