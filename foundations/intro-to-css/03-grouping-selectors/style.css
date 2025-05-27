@@ -1,0 +1,13 @@
+.black-BG, .yellow-BG {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.black-BG {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.yellow-BG {
+    background-color: yellow;
+}
